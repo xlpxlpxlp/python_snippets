@@ -1,2 +1,9 @@
-# python_snippets
-python snippets
+# python snippets
+## Flask snippets
+```
+
+```
+## Django snippets
+```
+
+```
